@@ -2,7 +2,7 @@
 
 This is a 3 hour session on R/bioconductor analysis of flow cytometry data.
 
-- **Date and time**: 2025-08-06,07,09 11am CST
+- **Date and time**: 2025-08-06 11am CST
 - **Instructor**: Alice Yue
 - **Level**: Intermediate
 - **Slides**: To be distributed
